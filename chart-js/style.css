@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, serif;
+}
+
+.width {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 1em;
+}
+
+.chart {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 500px;
+  height: 500px;
+  margin: 40px auto auto;
+}
+
